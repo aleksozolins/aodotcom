@@ -1,5 +1,5 @@
 #+TITLE: Aleks Ozolins
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: ./export/setup/theme-darksun-local.setup
 [[./images/headshot.jpg]]
 
 [[https://www.aleksozolins.com]]
