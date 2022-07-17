@@ -1,24 +1,24 @@
 #+TITLE: Aleks Ozolins
 #+SETUPFILE: ./export/setup/theme-darksun-local.setup
-[[./images/headshot.jpg]]
-
-[[https://www.aleksozolins.com]]
-
------
 * About Me
 
+[[./images/headshot.jpg]]
+
 You've reached the website of Aleks Ozolins. I'm a NYC/NJ based software-tech professional / musician. Please check back often for content updates.
------
-** Links
+
+** Personal
 + [[https://www.linkedin.com/in/aleksozolins][LinkedIn]]
 + [[https://www.github.com/aleksozolins][GitHub]]
 + [[http://www.soundcloud.com/aleksozolins][SoundCloud]] (Needs an update!)
 
-* Music
+** Contact
++ [[mailto:aleks@aleksozolins.com][Email: aleks@aleksozolins.com]]
++ Download my public GPG key [[./aleks_ozolins_public_gpg_key.txt][here]]
 
-** Discography
+* Discography
+
 Below are commercial recordings I've had a hand in, either as a performer, or as part of the production process.
------
+
 + [[https://spellling.bandcamp.com/album/the-turning-wheel][Spellling - The Turning Wheel]] (engineer/editor/producer for brass tracks)
 + [[http://calliopebrass.org/store?category=Holiday%20Album][Calliope Brass - (Stay At) Home For The Holidays]] (producer/recording engineer)
 + [[https://www.amazon.com/Karchin-MacPherson-League-Composers-Jennifer/dp/B07VFQH5CK/ref=sr_1_1?keywords=louis+karchin+naxos&qid=1566500936&s=gateway&sr=8-1][Louis Karchin: Jane Eyre - Libretto by Diane Osen - Orchestra of the League of Composers]] (horns: Sarah Cyrus, Aleks Ozolins)
@@ -28,9 +28,9 @@ Below are commercial recordings I've had a hand in, either as a performer, or as
 + [[https://www.amazon.com/Mi-Alma-Mexicana-Mexican-Soul/dp/B003T8BWRK/ref=sr_1_2?keywords=Mi+Alma+Mexicana&qid=1547832128&sr=8-2][Philharmonic Orchestra of The Americas: Mi Alma Mexicana]]
 + [[https://www.amazon.com/Travieso-Carmes%C3%AD-Alondra-Parra/dp/B00540O1SI/ref=sr_1_3?keywords=Mi+Alma+Mexicana&qid=1547832490&sr=8-3][Travieso Carmesi]]
 + [[https://www.amazon.com/This-Cant-Have-Nice-Things/dp/B0032IYIPK][Stephanie White: This Is Why We Can't Have Nice Things]] (keyboards, horn)
------
-** Horn
-*** Mouthpieces
+
+* Horn
+** Mouthpieces
 
 I have a fairly large collection of French Horn mouthpieces and colleagues often ask to borrow some for trial. Here follows a current list of my collection. Don't hesitate to [[mailto:aleks@aleksozolins.com][reach out]] if you'd like to try a few.
 
@@ -38,18 +38,25 @@ I have a fairly large collection of French Horn mouthpieces and colleagues often
 
 **Note:** Many more to be added above!
 
-*** Technical Data
+** Technical Data
 
 #+INCLUDE: "~/docs/orgfiles/horn_data.org"
-** Writings
-+ [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
-** Professional Services
 
-*** Audio Editing / Production
+** Links
++ [[https://local802afm.org/][American Federation of Musicians - Local 802]]
++ [[https://chamberorchestraofnewyork.org/][Chamber Orchestra of New York]]
++ [[http://www.engelbert-schmid-horns.com/][Engelbert Schmid Horns]]
+
+* Writings
++ [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
+
+* Professional Services
+
+** Audio Editing / Production
 
 I've produced and edited a number of recordings and work in Avid Pro Tools, although since that software is now on a subscription model, I'm looking for a good free alternate. Feel free to check out my discography for more info.
 
-*** Analog to Digital Transfers
+** Analog to Digital Transfers
 
 I am equipped to transfer a variety of audio/video media to digital format including:
 
@@ -72,22 +79,14 @@ Pricing is in-line with industry standards and is settled on a per-project basis
 
 **UPDATE 2022-07-10:** For the moment, as I shift my focus back towards software and performing music, I'm not taking on any new audio projects. This may change in the future so please don't hesitate to ask.
 
-** Links
-+ [[https://local802afm.org/][American Federation of Musicians - Local 802]]
-+ [[https://chamberorchestraofnewyork.org/][Chamber Orchestra of New York]]
-+ [[http://www.engelbert-schmid-horns.com/][Engelbert Schmid Horns]]
-
 * Software
 Stay tuned!
+
 ** Links
 
 + [[https://www.zapier.com][Zapier]] - Automate your busywork! (Also my employer)
 + [[https://archlinux.org][Arch Linux]]
 + [[https://www.gnu.org/software/emacs][GNU Emacs]]
-
-* Contact
-+ [[mailto:aleks@aleksozolins.com][Email: aleks@aleksozolins.com]]
-+ Download my public GPG key [[./aleks_ozolins_public_gpg_key.txt][here]]
 
 * Updates
 Here are the list of upcoming updates to this site:
