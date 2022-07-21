@@ -1,3 +1,4 @@
 #+TITLE: Aleks Ozolins' Zapier Page
 #+SETUPFILE: ./export/setup/theme-darksun-local.setup
+#+PROPERTY: header-args    :exports both
 #+INCLUDE: "~/docs/orgfiles/zapier.org"

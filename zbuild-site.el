@@ -21,8 +21,10 @@
 	     :with-toc t               ;; Include a table of contents
 	     :section-numbers nil      ;; Don't include section numbers
 	     :time-stamp-file nil      ;; Don't include time stamp in file
-             :exclude ".*"             ;; Exclude all files
-	     :include ["zpage.org"]    ;; Include just the Zapier file
+             :with-planning t          ;; Include deadlines, etc.
+             :with-properties nil      ;; Don't include the PROPERTIES drawer
+	     :exclude ".*"             ;; Exclude all files
+	     :include ["zpage.org" "rpn.org"]    ;; Include just the Zapier file
 	     )))
 
 ;; Generate the site output (all files from scratch)
