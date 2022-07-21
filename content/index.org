@@ -86,7 +86,10 @@ Pricing is in-line with industry standards and is settled on a per-project basis
 **UPDATE 2022-07-10:** For the moment, as I shift my focus back towards software and performing music, I'm not taking on any new audio projects. This may change in the future so please don't hesitate to ask.
 
 * Software
-Stay tuned!
+
+** Learning
+
++ RealPython.com - [[https://www.aleksozolins.com/rpn.html][Click here]] to be taken to my personal notes for courses on this platform.
 
 ** Links
 

@@ -1,0 +1,3 @@
+#+TITLE: Aleks Ozolins - Real Python Notes
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+INCLUDE: "~/docs/orgfiles/realpython.org"
