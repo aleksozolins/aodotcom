@@ -34,7 +34,7 @@
        (list "aodotcomother"
 	     :recursive t
 	     :base-directory "./content"
-             :base-extension "html\\|pdf"
+             :base-extension "html\\|txt\\|pdf"
 	     :publishing-directory "~/Dropbox/docs/aodotcom/htdocs"
 	     :publishing-function 'org-publish-attachment
 	     )))

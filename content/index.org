@@ -12,7 +12,7 @@ You've reached the website of Aleks Ozolins. I'm a NYC/NJ based software-tech pr
 + [[http://www.soundcloud.com/aleksozolins][SoundCloud]] (Needs an update!)
 
 ** Contact
-+ [[mailto:aleks@aleksozolins.com][Email: aleks@aleksozolins.com]]
++ Email: [[mailto:aleks@aleksozolins.com][aleks@aleksozolins.com]]
 + Download my public GPG key [[./aleks_ozolins_public_gpg_key.txt][here]]
 
 ** Site Info
@@ -25,6 +25,7 @@ The source code for aleksozolins.com can be found on [[https://github.com/alekso
 Below are commercial recordings I've had a hand in, either as a performer, or as part of the production process.
 |------+------------------------------------------------------------------------------------------+-------------------------------------------|
 | Year | Album                                                                                    | Role                                      |
+|------+------------------------------------------------------------------------------------------+-------------------------------------------|
 | 2021 | [[https://spellling.bandcamp.com/album/the-turning-wheel][Spellling - The Turning Wheel]]                                                            | engineer/editor/producer for brass tracks |
 | 2021 | Calliope Brass - (Stay At) Home For The Holidays                                         | producer/recording engineer               |
 | 2019 | [[https://www.amazon.com/Karchin-MacPherson-League-Composers-Jennifer/dp/B07VFQH5CK/][Louis Karchin: Jane Eyre - Libretto by Diane Osen - Orchestra of the League of Composers]] | horns: Sarah Curis, Aleks Ozolins         |
