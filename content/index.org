@@ -43,8 +43,6 @@ I have a fairly large collection of French Horn mouthpieces and colleagues often
 
 #+INCLUDE: "~/docs/orgfiles/mouthpieces.org"
 
-**Note:** Many more to be added above!
-
 ** Technical Data
 
 #+INCLUDE: "~/docs/orgfiles/horn_data.org"
