@@ -23,6 +23,10 @@
 ;; page theme
 (setq org-html-htmlize-output-type 'css)
 
+;; Guess Python indents and silent the warning
+(setq python-indent-guess-indent-offset t)  
+(setq python-indent-guess-indent-offset-verbose nil)
+
 ;; load the publishing system
 (require 'ox-publish)
 
