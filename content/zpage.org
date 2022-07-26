@@ -1,4 +1,59 @@
 #+TITLE: Aleks Ozolins' Zapier Page
 #+SETUPFILE: ./export/setup/theme-darksun-local.setup
 #+PROPERTY: header-args    :exports both
-#+INCLUDE: "~/docs/orgfiles/zapier.org"
+
+* Growth
+
+#+INCLUDE: "~/docs/org-roam/20220725213613-my_zapier_growth_plan.org" :lines "6-"
+
+* Learning
+
+** Real Python
+
+*** Course Log
+
+To view my notes for the Real Python courses below, click [[https://www.aleksozolins.com/rpn.html][here]]!
+
+#+INCLUDE: "~/docs/org-roam/20220725214725-real_python_course_log.org" :lines "6-"
+
+** Practical Python
+
+** Cloud Guru
+
+* SCC Competencies
+
+#+INCLUDE: "~/docs/org-roam/20220725213735-zapier_scc_competencies.org" :lines "6-"
+
+* Brags and Contributions
+
+Here follows contributions I've made to the organization.
+
+#+INCLUDE: "~/docs/org-roam/20220725213752-zapier_brags_and_contributions.org" :lines "6-"
+
+* Projects
+
+** Python Project 1
+
+Here is a short description of the project. And a small update.
+
++ Here's a point about it
++ Another point
++ Yet another
+
+*** Code
+
+#+begin_src python :results output
+  print("Hey what's up??!")
+
+#+end_src
+
+#+RESULTS:
+: Hey what's up??!
+
+** Project 2
+
+Etc. etc. here's more stuff about this
+
+** Project 3
+
+Another Project
