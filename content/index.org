@@ -23,18 +23,8 @@ The source code for aleksozolins.com can be found on [[https://github.com/alekso
 * Discography
 
 Below are commercial recordings I've had a hand in, either as a performer, or as part of the production process.
-|------+------------------------------------------------------------------------------------------+-------------------------------------------|
-| Year | Album                                                                                    | Role                                      |
-|------+------------------------------------------------------------------------------------------+-------------------------------------------|
-| 2021 | [[https://spellling.bandcamp.com/album/the-turning-wheel][Spellling - The Turning Wheel]]                                                            | engineer/editor/producer for brass tracks |
-| 2021 | Calliope Brass - (Stay At) Home For The Holidays                                         | producer/recording engineer               |
-| 2019 | [[https://www.amazon.com/Karchin-MacPherson-League-Composers-Jennifer/dp/B07VFQH5CK/][Louis Karchin: Jane Eyre - Libretto by Diane Osen - Orchestra of the League of Composers]] | horns: Sarah Cyrus, Aleks Ozolins         |
-| 2017 | [[https://www.amazon.com/Song-Solomon-original-Concept-Recording/dp/B01MS79TOH][Song of Solomon: Original Concept Recording]]                                              | horns: Aleks Ozolins, Eric Davis          |
-| 2015 | [[https://www.amazon.com/Doctor-Zhivago-Original-Broadway-Recording/dp/B00YCEWKAI/][Dr. Zhivago: Original Broadway Cast Recording]]                                            | horn                                      |
-| 2012 | [[https://www.amazon.com/Fasch-Orchestral-Works-Vol-3/dp/B008L62YAE/][Tempesta di Mare - Fasch: Orchestral Works, Vol. 3]]                                       | horns: Todd Williams, Aleks Ozolins       |
-| 2010 | [[https://www.amazon.com/Mi-Alma-Mexicana-Mexican-Soul/dp/B003T8BWRK/][Philharmonic Orchestra of The Americas - Mi Alma Mexicana]]                                | horn                                      |
-| 2010 | [[https://www.amazon.com/Travieso-Carmes%C3%AD-Alondra-Parra/dp/B00540O1SI/][Travieso Carmesi]]                                                                         | horn                                      |
-| 2009 | [[https://www.amazon.com/This-Cant-Have-Nice-Things/dp/B0032IYIPK][Stephanie White - This Is Why We Can't Have Nice Things]]                                  | keyboards, horn                           |
+
+#+INCLUDE: "~/docs/org-roam/20220725220507-discography.org" :lines "6-"
 
 * Horn
 ** Mouthpieces
