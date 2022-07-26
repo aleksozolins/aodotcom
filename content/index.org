@@ -41,7 +41,7 @@ Below are commercial recordings I've had a hand in, either as a performer, or as
 
 I have a fairly large collection of French Horn mouthpieces and colleagues often ask to borrow some for trial. Here follows a current list of my collection. Don't hesitate to [[mailto:aleks@aleksozolins.com][reach out]] if you'd like to try a few.
 
-#+INCLUDE: "~/docs/orgfiles/mouthpieces.org"
+#+INCLUDE: "~/docs/org-roam/20220725210154-my_mouthpieces.org" :lines "6-"
 
 ** Technical Data
 
