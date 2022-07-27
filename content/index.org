@@ -24,14 +24,14 @@ The source code for aleksozolins.com can be found on [[https://github.com/alekso
 
 Below are commercial recordings I've had a hand in, either as a performer, or as part of the production process.
 
-#+INCLUDE: "~/docs/org-roam/20220725220507-discography.org" :lines "6-"
+#+INCLUDE: "~/docs/org-roam/discography.org" :lines "7-"
 
 * Horn
 ** Mouthpieces
 
 I have a fairly large collection of French Horn mouthpieces and colleagues often ask to borrow some for trial. Here follows a current list of my collection. Don't hesitate to [[mailto:aleks@aleksozolins.com][reach out]] if you'd like to try a few.
 
-#+INCLUDE: "~/docs/org-roam/20220725210154-my_mouthpieces.org" :lines "6-"
+#+INCLUDE: "~/docs/org-roam/my_mouthpieces.org" :lines "7-"
 
 ** Technical Data
 
@@ -46,6 +46,8 @@ I have a fairly large collection of French Horn mouthpieces and colleagues often
 + [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
 
 * Professional Services
+
+**UPDATE 2022-07-10:** For the moment, as I shift my focus back towards software and performing music, I'm not taking on any new audio projects. This may change in the future so please don't hesitate to ask.
 
 ** Audio Editing / Production
 
@@ -71,8 +73,6 @@ Only high quality transports and converters are used for transfers to ensure the
 + Dynamic Compression and Correction
 
 Pricing is in-line with industry standards and is settled on a per-project basis. [[mailto:aleks@aleksozolins.com][email me]] to discuss your needs.
-
-**UPDATE 2022-07-10:** For the moment, as I shift my focus back towards software and performing music, I'm not taking on any new audio projects. This may change in the future so please don't hesitate to ask.
 
 * Software
 

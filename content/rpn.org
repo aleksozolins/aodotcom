@@ -1,4 +1,4 @@
 #+TITLE: Aleks Ozolins - Real Python Notes
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+PROPERTY: header-args    :exports both
-#+INCLUDE: "~/docs/org-roam/20220725195106-real_python_learning_notes.org" :lines "6-"
+#+INCLUDE: "~/docs/org-roam/real_python_learning_notes.org" :lines "7-"

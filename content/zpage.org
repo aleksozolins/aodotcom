@@ -4,7 +4,7 @@
 
 * Growth
 
-#+INCLUDE: "~/docs/org-roam/20220725213613-my_zapier_growth_plan.org" :lines "6-"
+#+INCLUDE: "~/docs/org-roam/my_zapier_growth_plan.org" :lines "7-"
 
 * Learning
 
@@ -14,7 +14,7 @@
 
 To view my notes for the Real Python courses below, click [[https://www.aleksozolins.com/rpn.html][here]]!
 
-#+INCLUDE: "~/docs/org-roam/20220725214725-real_python_course_log.org" :lines "6-"
+#+INCLUDE: "~/docs/org-roam/real_python_course_log.org" :lines "7-"
 
 ** Practical Python
 
@@ -22,13 +22,13 @@ To view my notes for the Real Python courses below, click [[https://www.aleksozo
 
 * SCC Competencies
 
-#+INCLUDE: "~/docs/org-roam/20220725213735-zapier_scc_competencies.org" :lines "6-"
+#+INCLUDE: "~/docs/org-roam/zapier_scc_competencies.org" :lines "7-"
 
 * Brags and Contributions
 
 Here follows contributions I've made to the organization.
 
-#+INCLUDE: "~/docs/org-roam/20220725213752-zapier_brags_and_contributions.org" :lines "6-"
+#+INCLUDE: "~/docs/org-roam/zapier_brags_and_contributions.org" :lines "7-"
 
 * Projects
 
