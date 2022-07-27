@@ -63,6 +63,8 @@ Ever wonder what I'm reading or what I've recently read? I started recently keep
 #+INCLUDE: "~/docs/org-roam/my_library.org" :lines "7-"
 
 * Writings
+
++ [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity]]
 + [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
 
 * Professional Services
