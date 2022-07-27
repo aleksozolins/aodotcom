@@ -56,6 +56,12 @@ I have a fairly large collection of French Horn mouthpieces and colleagues often
 + [[https://chamberorchestraofnewyork.org/][Chamber Orchestra of New York]]
 + [[http://www.engelbert-schmid-horns.com/][Engelbert Schmid Horns]]
 
+* Reading
+
+Ever wonder what I'm reading or what I've recently read? I started recently keeping track. Don't hesitate to send me an [[mailto:aleks@aleksozolins.com][email]] if you'd like to discuss any of the books below:
+
+#+INCLUDE: "~/docs/org-roam/my_library.org" :lines "7-"
+
 * Writings
 + [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
 
