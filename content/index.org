@@ -29,13 +29,27 @@ Below are commercial recordings I've had a hand in, either as a performer, or as
 * Horn
 ** Mouthpieces
 
-I have a fairly large collection of French Horn mouthpieces and colleagues often ask to borrow some for trial. Here follows a current list of my collection. Don't hesitate to [[mailto:aleks@aleksozolins.com][reach out]] if you'd like to try a few.
+*** My Mouthpieces
+
+I have a fairly large collection of French Horn mouthpieces and colleagues often ask to borrow some for trial. Don't hesitate to [[mailto:aleks@aleksozolins.com][reach out]] if you'd like to try a few.
 
 #+INCLUDE: "~/docs/org-roam/my_mouthpieces.org" :lines "7-"
 
-** Technical Data
+*** Bore Size Chart
 
-#+INCLUDE: "~/docs/orgfiles/horn_data.org"
+#+INCLUDE: "~/docs/org-roam/mouthpiece_bore_sizes.org" :lines "7-"
+
+*** Venturi Measurments
+
+#+INCLUDE: "~/docs/org-roam/venturi_measurments.org" :lines "7-"
+
+*** Outer Diameters
+
+#+INCLUDE: "~/docs/org-roam/mouthpiece_outer_diameters.org" :lines "7-"
+
+*** Taper Angles
+
+#+INCLUDE: "~/docs/org-roam/mouthpiece_taper_angles.org" :lines "7-"
 
 ** Links
 + [[https://local802afm.org/][American Federation of Musicians - Local 802]]
