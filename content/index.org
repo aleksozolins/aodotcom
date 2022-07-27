@@ -111,4 +111,4 @@ Pricing is in-line with industry standards and is settled on a per-project basis
 * Updates
 Here are the list of upcoming updates to this site:
 
-#+INCLUDE: "~/docs/org-roam/website_todos.org::Website" :only-contents t
+#+INCLUDE: "~/docs/org-roam/projects.org::Website" :only-contents t
