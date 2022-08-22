@@ -64,7 +64,8 @@ Ever wonder what I'm reading or what I've recently read? I started recently keep
 
 * Writings
 
-+ [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity]]
++ [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity (Zapier Blog)]]
++ [[https://www.fastcompany.com/90780493/8-tips-tricks-and-tools-to-optimize-productivity-on-your-mac][Optimize Your Mac For Productivity (Reprinted by Fast Company)]]
 + [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
 
 * Professional Services
