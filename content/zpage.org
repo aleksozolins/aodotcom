@@ -24,6 +24,10 @@ To view my notes for the Real Python courses below, click [[https://www.aleksozo
 
 #+INCLUDE: "~/docs/org-roam/zapier_scc_competencies.org" :lines "7-"
 
+* PIE Competencies
+
+#+INCLUDE: "~/docs/org-roam/zapier_pie_competencies.org" :lines "7-"
+
 * Brags and Contributions
 
 Here follows contributions I've made to the organization.
