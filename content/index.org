@@ -13,7 +13,7 @@ You've reached the website of Aleks Ozolins. I'm a NYC/NJ based software-tech pr
 
 ** Contact
 + Email: [[mailto:aleks@aleksozolins.com][aleks@aleksozolins.com]]
-+ Download my public GPG key [[./aleks_ozolins_public_gpg_key.txt][here]]
++ Download my public GPG key [[./aleks_ozolins_public_gpg_key.txt][here]] or =curl -sL https://aleksozolins.com/aleks_ozolins_public_gpg_key.txt | gpg --import= to download and import. 
 
 ** Site Info
 Copyright © 2021-2022 [[mailto:aleks@aleksozolins.com][Aleks Ozolins]]
