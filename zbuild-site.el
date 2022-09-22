@@ -53,7 +53,7 @@
              :with-planning t          ;; Include deadlines, etc.
              :with-properties nil      ;; Don't include the PROPERTIES drawer
 	     :exclude ".*"             ;; Exclude all files
-	     :include ["zpage.org" "rpn.org"]    ;; Include just the Zapier file
+	     :include ["zapier/index.org" "rpn.org"]    ;; Include just the Zapier file
 	     )))
 
 ;; Generate the site output (all files from scratch)
