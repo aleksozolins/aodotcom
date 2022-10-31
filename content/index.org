@@ -27,7 +27,7 @@ Below are commercial recordings I've had a hand in, either as a performer, or as
 #+INCLUDE: "~/docs/org-roam/discography.org" :lines "7-"
 
 * Horn
-** Mouthpieces
+** My Mouthpieces
 
 *** My Mouthpieces
 
@@ -35,21 +35,21 @@ I have a fairly large collection of French Horn mouthpieces and colleagues often
 
 #+INCLUDE: "~/docs/org-roam/my_mouthpieces.org" :lines "7-"
 
-*** Bore Size Chart
-
-#+INCLUDE: "~/docs/org-roam/mouthpiece_bore_sizes.org" :lines "7-"
-
-*** Venturi Measurments
-
-#+INCLUDE: "~/docs/org-roam/venturi_measurments.org" :lines "7-"
-
-*** Outer Diameters
+** Mouthpiece Outer Diameters
 
 #+INCLUDE: "~/docs/org-roam/mouthpiece_outer_diameters.org" :lines "7-"
 
-*** Taper Angles
+** Mouthpiece Bore Size Chart
+
+#+INCLUDE: "~/docs/org-roam/mouthpiece_bore_sizes.org" :lines "7-"
+
+** Mouthpiece Taper Angles
 
 #+INCLUDE: "~/docs/org-roam/mouthpiece_taper_angles.org" :lines "7-"
+
+** Horn Venturi Measurments
+
+#+INCLUDE: "~/docs/org-roam/venturi_measurments.org" :lines "7-"
 
 ** Links
 + [[https://local802afm.org/][American Federation of Musicians - Local 802]]
@@ -58,7 +58,7 @@ I have a fairly large collection of French Horn mouthpieces and colleagues often
 
 * Reading
 
-Ever wonder what I'm reading or what I've recently read? I started recently keeping track. Don't hesitate to send me an [[mailto:aleks@aleksozolins.com][email]] if you'd like to discuss any of the books below:
+Ever wonder what I'm reading? I started recently keeping track. This represents only a small portion of my library. Additionally, I don't always finish every book I start. Nor do I like all of the books I buy! Don't hesitate to send me an [[mailto:aleks@aleksozolins.com][email]] if you'd like to discuss any of the books below:
 
 #+INCLUDE: "~/docs/org-roam/my_library.org" :lines "7-"
 
