@@ -12,11 +12,11 @@ You've reached the website of Aleks Ozolins. I'm a NYC/NJ based software-tech pr
 + [[http://www.soundcloud.com/aleksozolins][SoundCloud]] (Needs an update!)
 
 ** Contact
-+ Email: [[mailto:aleks@aleksozolins.com][aleks@aleksozolins.com]]
++ Email: [[mailto:aleks@ozolins.xyz][aleks@ozolins.xyz]]
 + Download my public GPG key [[./aleks_ozolins_public_gpg_key.txt][here]] or =curl -sL https://aleksozolins.com/aleks_ozolins_public_gpg_key.txt | gpg --import= to download and import. 
 
 ** Site Info
-Copyright © 2021-2022 [[mailto:aleks@aleksozolins.com][Aleks Ozolins]]
+Copyright © 2021-2022 [[mailto:aleks@ozolins.xyz][Aleks Ozolins]]
 
 The source code for aleksozolins.com can be found on [[https://github.com/aleksozolins/aodotcom][GitHub]]. This site was built using [[https://orgmode.org/][Org Mode]]. The theme used here is [[https://github.com/alphapapa/org-html-theme-darksun][darksun]] by alphapapa.
 
@@ -58,7 +58,7 @@ I have a fairly large collection of French Horn mouthpieces and colleagues often
 
 * Reading
 
-Ever wonder what I'm reading? I started recently keeping track. This represents only a small portion of my library. Additionally, I don't always finish every book I start. Nor do I like all of the books I buy! Don't hesitate to send me an [[mailto:aleks@aleksozolins.com][email]] if you'd like to discuss any of the books below:
+Ever wonder what I'm reading? I started recently keeping track. This represents only a small portion of my library. Additionally, I don't always finish every book I start. Nor do I like all of the books I buy! Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any of the books below:
 
 #+INCLUDE: "~/docs/org-roam/my_library.org" :lines "7-"
 
