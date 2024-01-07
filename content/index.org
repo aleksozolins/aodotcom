@@ -4,52 +4,45 @@
 
 [[./images/headshot.jpg]]
 
-You've reached the website of Aleks Ozolins. I'm a NYC/NJ based software-tech professional / musician. Please check back often for content updates.
+You've reached the website of Aleks Ozolins. I'm a NJ/NYC based software engineer and professional musician. Please check back often for content updates.
 
 ** Personal
 + [[https://www.linkedin.com/in/aleksozolins][LinkedIn]]
 + [[https://www.github.com/aleksozolins][GitHub]]
-+ [[http://www.soundcloud.com/aleksozolins][SoundCloud]] (Needs an update!)
 
 ** Contact
 + Email: [[mailto:aleks@ozolins.xyz][aleks@ozolins.xyz]]
-+ Download my public GPG key [[./aleks_ozolins_public_gpg_key.txt][here]] or =curl -sL https://aleksozolins.com/aleks_ozolins_public_gpg_key.txt | gpg --import= to download and import. 
++ Download my public GPG key [[./aleks_ozolins_public_gpg_key.txt][here]] or =curl -sL https://ozolins.xyz/aleks_ozolins_public_gpg_key.txt | gpg --import= to download and import. 
 
 ** Site Info
-Copyright © 2021-2022 [[mailto:aleks@ozolins.xyz][Aleks Ozolins]]
+Copyright © 2021-2024 [[mailto:aleks@ozolins.xyz][Aleks Ozolins]]
 
-The source code for aleksozolins.com can be found on [[https://github.com/aleksozolins/aodotcom][GitHub]]. This site was built using [[https://orgmode.org/][Org Mode]]. The theme used here is [[https://github.com/alphapapa/org-html-theme-darksun][darksun]] by alphapapa.
+This site is self-hosted on an old PC running Arch Linux [[https://knowyourmeme.com/memes/btw-i-use-arch][BTW]]. The source code for ozolins.xyz can be found on [[https://github.com/aleksozolins/aodotcom][GitHub]]. This site was built using [[https://orgmode.org/][Org Mode]]. The theme used here is [[https://github.com/alphapapa/org-html-theme-darksun][darksun]] by alphapapa.
 
 * Discography
 
 Below are commercial recordings I've had a hand in, either as a performer, or as part of the production process.
 
-#+INCLUDE: "~/docs/org-roam/discography.org" :lines "7-"
+#+INCLUDE: "~/docs/denote/20240107T165523--discography__horn_recording.org" :lines "6-"
 
 * Horn
-** My Mouthpieces
 
-*** My Mouthpieces
+** My Horns
+
+Here is a list of horns I own and work with. In the future, I look forward to providing some more detailed info on each here.
+
++ Schmid Triple Horn in F/Bb/Eb (Mindelzell)
++ Alexander 103 (2018)
++ Alexander 103 (1950-60s -- I'm yet to precisely date this one)
++ Alexander single F horn (Date unknown -- likely pre WW2)
++ Seraphinoff Halari Model Hand Horn
++ H Series Conn 8D (1968 -- Mint condition and unmodified)
+
+** My Mouthpieces
 
 I have a fairly large collection of French Horn mouthpieces and colleagues often ask to borrow some for trial. Don't hesitate to [[mailto:aleks@aleksozolins.com][reach out]] if you'd like to try a few.
 
-#+INCLUDE: "~/docs/org-roam/my_mouthpieces.org" :lines "7-"
-
-** Mouthpiece Outer Diameters
-
-#+INCLUDE: "~/docs/org-roam/mouthpiece_outer_diameters.org" :lines "7-"
-
-** Mouthpiece Bore Size Chart
-
-#+INCLUDE: "~/docs/org-roam/mouthpiece_bore_sizes.org" :lines "7-"
-
-** Mouthpiece Taper Angles
-
-#+INCLUDE: "~/docs/org-roam/mouthpiece_taper_angles.org" :lines "7-"
-
-** Horn Venturi Measurments
-
-#+INCLUDE: "~/docs/org-roam/venturi_measurments.org" :lines "7-"
+*Coming soon: A table of mouthpieces!*
 
 ** Links
 + [[https://local802afm.org/][American Federation of Musicians - Local 802]]
@@ -58,9 +51,7 @@ I have a fairly large collection of French Horn mouthpieces and colleagues often
 
 * Reading
 
-Ever wonder what I'm reading? I started recently keeping track. This represents only a small portion of my library. Additionally, I don't always finish every book I start. Nor do I like all of the books I buy! Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any of the books below:
-
-#+INCLUDE: "~/docs/org-roam/my_library.org" :lines "7-"
+Ever wonder what I'm reading? Here's where I intend to keep track in the near future. This list will represents only a portion of my library. For transparency, I don't always finish every book I start, nor do I like all of the books I read! Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any books that you and I have both read.
 
 * Writings
 
@@ -70,7 +61,7 @@ Ever wonder what I'm reading? I started recently keeping track. This represents 
 
 * Professional Services
 
-**UPDATE 2022-07-10:** For the moment, as I shift my focus back towards software and performing music, I'm not taking on any new audio projects. This may change in the future so please don't hesitate to ask.
+**UPDATE 2022-07-10:** For the moment, as I shift my focus back towards software engineering and performing music, I'm not taking on any new recording projects. This may change in the future so please don't hesitate to ask. I'm always willing to entertain special projects or help colleagues find solutions.
 
 ** Audio Editing / Production
 
@@ -99,17 +90,17 @@ Pricing is in-line with industry standards and is settled on a per-project basis
 
 * Software
 
-** Learning
-
-+ RealPython.com - [[https://www.aleksozolins.com/rpn.html][Click here]] to be taken to my personal notes for courses on this platform.
+I'll be including some links to software projects here in the near future.
 
 ** Links
 
-+ [[https://www.zapier.com][Zapier]] - Automate your busywork! (Also my employer)
++ [[https://www.zapier.com][Zapier]] - Automate your SaaS! (Also my employer)
 + [[https://archlinux.org][Arch Linux]]
 + [[https://www.gnu.org/software/emacs][GNU Emacs]]
 
 * Updates
 Here are the list of upcoming updates to this site:
 
-#+INCLUDE: "~/docs/org-roam/projects.org::Website" :only-contents t
+** TODO Change to a more attractive site theme
+
+** TODO Include some links to my software projects
