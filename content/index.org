@@ -31,12 +31,12 @@ Below are commercial recordings I've had a hand in, either as a performer, or as
 
 Here is a list of horns I own and work with. In the future, I look forward to providing some more detailed info on each here.
 
-+ Schmid Triple Horn in F/Bb/Eb (Mindelzell)
++ Schmid Triple Horn in F/B/Eb (Mindelzell)
 + Alexander 103 (2018)
 + Alexander 103 (1950-60s -- I'm yet to precisely date this one)
-+ Alexander single F horn (Date unknown -- likely pre WW2)
-+ Seraphinoff Halari Model Hand Horn
-+ H Series Conn 8D (1968 -- Mint condition and unmodified)
++ Alexander single F horn (date unknown -- likely pre WW2)
++ Seraphinoff Halari hand horn
++ H Series Conn 8D (1968 -- mint condition and unmodified)
 
 ** My Mouthpieces
 
@@ -104,3 +104,7 @@ Here are the list of upcoming updates to this site:
 ** TODO Change to a more attractive site theme
 
 ** TODO Include some links to my software projects
+
+** TODO Change build script to eliminate htdocs dir
+
+** TODO Add publish script to copy to server automatically
