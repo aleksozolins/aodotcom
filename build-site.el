@@ -43,7 +43,7 @@
        (list "aodotcomorg"
 	     :recursive t
 	     :base-directory "./content"
-	     :publishing-directory "~/Dropbox/docs/aodotcom/htdocs"
+	     :publishing-directory "./build"
 	     :publishing-function 'org-html-publish-to-html
 	     :with-author nil          ;; Don't include authoer name
 	     :with-creator t           ;; Include Emacs and Org versions in footer
@@ -57,14 +57,14 @@
 	     :recursive t
 	     :base-directory "./content"
              :base-extension "jpg\\|png"
-	     :publishing-directory "~/Dropbox/docs/aodotcom/htdocs"
+	     :publishing-directory "./build"
 	     :publishing-function 'org-publish-attachment
 	     )
        (list "aodotcomother"
 	     :recursive t
 	     :base-directory "./content"
-             :base-extension "html\\|txt\\|pdf"
-	     :publishing-directory "~/Dropbox/docs/aodotcom/htdocs"
+             :base-extension "html\\|txt\\|pdf\\|js\\|swf\\|css\\|setup"
+	     :publishing-directory "./build"
 	     :publishing-function 'org-publish-attachment
 	     )))
 
