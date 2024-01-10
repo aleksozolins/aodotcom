@@ -6,68 +6,56 @@
 
 You've reached the website of Aleks Ozolins. I'm a NJ/NYC based software engineer and professional musician. Please check back often for content updates.
 
+*Note:* This site is best viewed on a computer, not a mobile phone!
+
 ** Personal
+
 + [[https://www.linkedin.com/in/aleksozolins][LinkedIn]]
 + [[https://www.github.com/aleksozolins][GitHub]]
++ [[mailto:aleks@ozolins.xyz][Résumé]] (please request via email)
 
 ** Contact
+
 + Email: [[mailto:aleks@ozolins.xyz][aleks@ozolins.xyz]]
 + Download my public GPG key [[./aleks_ozolins_public_gpg_key.txt][here]] or =curl -sL https://ozolins.xyz/aleks_ozolins_public_gpg_key.txt | gpg --import= to download and import. 
 
 ** Site Info
+
 Copyright © 2021-2024 [[mailto:aleks@ozolins.xyz][Aleks Ozolins]]
 
 This site is self-hosted on an old PC running Arch Linux [[https://knowyourmeme.com/memes/btw-i-use-arch][BTW]]. The source code for ozolins.xyz can be found on [[https://github.com/aleksozolins/aodotcom][GitHub]]. This site was built using [[https://orgmode.org/][Org Mode]]. The theme used here is [[https://github.com/alphapapa/org-html-theme-darksun][darksun]] by alphapapa.
 
-* Discography
+* Music
+
+I play the French horn professionally and am a member of [[https://local802afm.org/][The American Federation of Musicians - Local 802]]
+
+I also occasionally do audio recording and engineering work and also play the piano/keyboard.
+
+[[mailto:aleks@ozolins.xyz][Email me]] for my performance résumé.
+
+** Discography
 
 Below are commercial recordings I've had a hand in, either as a performer, or as part of the production process.
 
 #+INCLUDE: "~/docs/denote/20240107T165523--discography__horn_recording.org" :lines "6-"
 
-* Horn
+** Media
 
-** My Horns
+*** Images
 
-Here is a list of horns I own and work with. In the future, I look forward to providing some more detailed info on each here.
+*** Audio
 
-+ Schmid Triple Horn in F/B/Eb (Mindelzell)
-+ Alexander 103 (2018)
-+ Alexander 103 (1950-60s -- I'm yet to precisely date this one)
-+ Alexander single F horn (date unknown -- likely pre WW2)
-+ Seraphinoff Halari hand horn
-+ H Series Conn 8D (1968 -- mint condition and unmodified)
+*** Video
 
-** My Mouthpieces
-
-I have a fairly large collection of French Horn mouthpieces and colleagues often ask to borrow some for trial. Don't hesitate to [[mailto:aleks@aleksozolins.com][reach out]] if you'd like to try a few.
-
-*Coming soon: A table of mouthpieces!*
-
-** Links
-+ [[https://local802afm.org/][American Federation of Musicians - Local 802]]
-+ [[https://chamberorchestraofnewyork.org/][Chamber Orchestra of New York]]
-+ [[http://www.engelbert-schmid-horns.com/][Engelbert Schmid Horns]]
-
-* Reading
-
-Ever wonder what I'm reading? Here's where I intend to keep track in the near future. This list will represents only a portion of my library. For transparency, I don't always finish every book I start, nor do I like all of the books I read! Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any books that you and I have both read.
-
-* Writings
-
-+ [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity (Zapier Blog)]]
-+ [[https://www.fastcompany.com/90780493/8-tips-tricks-and-tools-to-optimize-productivity-on-your-mac][Optimize Your Mac For Productivity (Reprinted by Fast Company)]]
-+ [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
-
-* Professional Services
+** Professional Services
 
 **UPDATE 2022-07-10:** For the moment, as I shift my focus back towards software engineering and performing music, I'm not taking on any new recording projects. This may change in the future so please don't hesitate to ask. I'm always willing to entertain special projects or help colleagues find solutions.
 
-** Audio Editing / Production
+*** Audio Editing / Production
 
 I've produced and edited a number of recordings and work in Avid Pro Tools, although since that software is now on a subscription model, I'm looking for a good free alternate. Feel free to check out my discography for more info.
 
-** Analog to Digital Transfers
+*** Analog to Digital Transfers
 
 I am equipped to transfer a variety of audio/video media to digital format including:
 
@@ -88,23 +76,89 @@ Only high quality transports and converters are used for transfers to ensure the
 
 Pricing is in-line with industry standards and is settled on a per-project basis. [[mailto:aleks@aleksozolins.com][email me]] to discuss your needs.
 
-* Software
+** Gear
+
+*** Horns
+
+Here is a list of horns I own and work with. In the future, I look forward to providing some more detailed info on each here.
+
++ Engelbert Schmid Triple Horn in F/B/Eb (Mindelzell)
++ Alexander 103 (2018)
++ Alexander 103 (1950-60s -- I'm yet to precisely date this one)
++ Alexander single F horn (date unknown -- likely pre WW2)
++ Seraphinoff Halari hand horn
++ H Series Conn 8D (1968 -- mint condition and unmodified)
+
+*** Mouthpieces
+
+I have a fairly large collection of French Horn mouthpieces and colleagues often ask to borrow some for trial. Don't hesitate to [[mailto:aleks@aleksozolins.com][reach out]] if you'd like to try a few.
+
+*Coming soon: A table of mouthpieces!*
+
+*** Recording/Studio
+
+Mics/interfaces/software/etc.
+
+* Tech
+
+** Development
 
 I'll be including some links to software projects here in the near future.
 
-** Links
+** Software
 
-+ [[https://www.zapier.com][Zapier]] - Automate your SaaS! (Also my employer)
-+ [[https://archlinux.org][Arch Linux]]
-+ [[https://www.gnu.org/software/emacs][GNU Emacs]]
+Here is some software I use and love:
 
-* Updates
+- [[https://archlinux.org][Arch Linux]]
+- [[https://www.gnu.org/software/emacs/][GNU Emacs]]
+- [[https://www.zapier.com][Zapier]] (my current full-time employer)
+
+* Library
+
+** Reading
+
+Ever wonder what I'm reading? Here's where I intend to keep track in the near future. This list will represents only a portion of my library. For transparency, I don't always finish every book I start, nor do I like all of the books I read! Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any books that you and I have both read.
+
+** Writing
+
++ [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity (Zapier Blog)]]
++ [[https://www.fastcompany.com/90780493/8-tips-tricks-and-tools-to-optimize-productivity-on-your-mac][Optimize Your Mac For Productivity (Reprinted by Fast Company)]]
++ [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
+
+* Other
+
+** Updates
+
 Here are the list of upcoming updates to this site:
 
-** TODO Change to a more attractive site theme
+*** TODO Add revert script to undo most recent deployment
 
-** TODO Include some links to my software projects
+*** TODO Change to a more attractive site theme
 
-** TODO Change build script to eliminate htdocs dir
+*** TODO Include some links to my software projects
 
-** TODO Add publish script to copy to server automatically
+*** TODO Upload some media
+
+*** TODO Disable "In this section" on mobile
+
+*** DONE Change build script to eliminate htdocs dir
+CLOSED: [2024-01-09 Tue 21:06]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-01-09 Tue 21:06]
+:END:
+
+*** DONE Add publish script to copy to server automatically
+CLOSED: [2024-01-09 Tue 21:06]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-01-09 Tue 21:06]
+:END:
+
+** Links
+
+*** Family/Friends
+
+- [[https://www.erinpaul.com][Erin Paul Ozolins (my partner!)]]
+
+*** Commercial
+
+- [[https://gebr-alexander.de/en][Alexander Horns]]
