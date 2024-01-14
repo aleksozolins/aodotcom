@@ -1,6 +1,7 @@
 #+title:      Tips For Practicing Music After a Long Break
-#+date:       [2024-01-14 Sun 14:03]
+#+date:       [2023-03-29 Sun 09:29]
 #+options: toc:nil num:nil
+#+author: Aleks Ozolins
 
 [[file:index.org][Back to ozolins.xyz]]
 -----
@@ -17,7 +18,7 @@ I now enjoy playing professionally again when time allows and although I may not
 
 * The Tips
 
-- *Listen to good =your instrument= playing:* It’s important that you get that sound back in your head as priority #1. The act of listening to and playing music is largely the same from a “these synapses are firing” standpoint. If you can get some joy from listening to great playing, that will transfer as soon as you pick up the instrument.
+- *Listen to good =<your instrument>= playing:* It’s important that you get that sound back in your head as priority #1. The act of listening to and playing music is largely the same from a “these synapses are firing” standpoint. If you can get some joy from listening to great playing, that will transfer as soon as you pick up the instrument.
 - *Allow yourself to sound bad:* ...at least in the beginning. This is hard for many people. Understand that your muscles are out of coordination and need time to re-coordinate. It’s OK to sound bad as long as you sound good in your head. If you have the right sound in your head, your muscles will find their way with time.
 - *Focus on time:* This one is super important. Muscles require timing to coordinate. Play exercises and music slowly with a strong sense of subdivided time in your head. This not only makes your practice meditative, it also coordinates you faster than doing anything without good rhythm.
 - *Play a little every day:* It’s better to play for a short period every day with consistency vs. cramming practice into every few days.
@@ -29,7 +30,7 @@ I now enjoy playing professionally again when time allows and although I may not
   + I’d like to play with a local community orchestra or band.
   + I’d like to find a friend to play duets with.
   + I’d like to record cool multi-track YouTube videos.
-  + I’d like someone to pay me to play the =your instrument=.
+  + I’d like someone to pay me to play the =<your instrument>=.
 - *Re-frame resistance:* ... as motivation to get better. This is an idea I got from the book [[https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026][The War of Art]] (read this!!). If you get down on yourself or hit a plateau, compartmentalize that energy and re-appropriate it into your practice instead. Any type of resistance can be treated this way (this works great for exercise too).
 - *Play piano:* This one is super important. Piano has dual benefits:
   1) It makes you a better musician because the music you learn is more complicated.

@@ -140,9 +140,11 @@ Here are the list of upcoming updates to this site:
 
 *** TODO Add revert script to undo most recent deployment
 
-*** TODO Change to a more attractive site theme
+*** TODO Solarized theme for extra pages
 
 *** TODO Include some links to my software projects
+
+*** TODO Change to a more attractive site theme
 
 *** TODO Upload some media
 
