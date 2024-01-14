@@ -4,8 +4,8 @@
 #+author: Aleks Ozolins
 
 Aleks Ozolins
-[[file:index.org][Back to ozolins.xyz]]
 -----
+[[file:index.org][Back to ozolins.xyz]]
 
 * Context
 
@@ -39,3 +39,5 @@ I now enjoy playing professionally again when time allows and although I may not
 - *Take lessons:* ...from someone who is very very good (recommend whoever plays with the closest full time orchestra). - even if it’s only once in a while. Having someone else examine your playing, particularly if you’ve hit a roadblock pays dividends. That person may also spot problems with your equipment or technique that you might not catch.
 - *Be thankful:* ...for whatever talent and present capability you have. Music is an extremely tough (tougher than tech) industry.
 - *Let your ego go:* Great music exists without the added complication of your relationship with it (what could be, what could have been, what I have failed at). Playing music is most joyful when you do it purely for the sake of making great sounds.
+
+[[file:index.org][Back to ozolins.xyz]]
