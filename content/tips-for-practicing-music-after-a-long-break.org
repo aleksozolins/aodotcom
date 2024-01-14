@@ -1,0 +1,39 @@
+#+title:      Tips For Practicing Music After a Long Break
+#+date:       [2024-01-14 Sun 14:03]
+#+options: toc:nil num:nil
+
+[[file:index.org][Back to ozolins.xyz]]
+-----
+
+* Context
+
+The following is a response to a query from a colleague at Zapier who asked how best to tackle picking up their instrument again after a long (multi-year) break and about the feeling of guilt that might follow letting skills deteriorate. Since I have gone through this multiple times, I felt qualified to contribute a response.
+
+* Background
+
+I played horn professionally for 15 years full time. I stopped when the Covid pandemic hit and shifted into tech because, well, there were no gigs - but also because my playing had gotten worse in the last few years prior, likely from a combination of bad habits on my instrument, the aging process, and focusing on the wrong solutions.
+
+I now enjoy playing professionally again when time allows and although I may not ever have the same 'chops' I did at age 25, I consider myself a better and wiser musician overall, in part because that happens with age, but also because I have kept the tips below in mind. 
+
+* The Tips
+
+- *Listen to good =your instrument= playing:* It’s important that you get that sound back in your head as priority #1. The act of listening to and playing music is largely the same from a “these synapses are firing” standpoint. If you can get some joy from listening to great playing, that will transfer as soon as you pick up the instrument.
+- *Allow yourself to sound bad:* ...at least in the beginning. This is hard for many people. Understand that your muscles are out of coordination and need time to re-coordinate. It’s OK to sound bad as long as you sound good in your head. If you have the right sound in your head, your muscles will find their way with time.
+- *Focus on time:* This one is super important. Muscles require timing to coordinate. Play exercises and music slowly with a strong sense of subdivided time in your head. This not only makes your practice meditative, it also coordinates you faster than doing anything without good rhythm.
+- *Play a little every day:* It’s better to play for a short period every day with consistency vs. cramming practice into every few days.
+- *Develop a routine:* Play the same exercises every day, even if it’s only for 20 minutes. This will give you a firm point of reference you can return to daily to track your progress.
+- *Always play music too:* You’ll want to divide your practice into 2 distinct categories - playing exercises, and playing music. When you’re playing exercises, treat them as calisthenic and be hyper vigilant when you look at your technique — but when you play music, let that all go and enjoy yourself. Be very decisive about the separation.
+- *Play Jazz:* If you get down on yourself or become hyper-fixated on a problem, improvise or play Jazz. I recommend putting on some simple blues accompaniment and play along with it. Have fun, and find what sounds good. This has the benefit of taking the pressure off, and giving you time on the instrument.
+- *Introduce weirdness:* If you get stuck or hit a technique plateau that you can’t break through, introduce weirdness. Rigid/Inflexible thinking is the enemy and can hold you back for years at a time. Sometimes the simple solution can be trying something that you would have never tried before.
+- *Set goals:* Decide what you’d like to do. Some examples:
+  + I’d like to play with a local community orchestra or band.
+  + I’d like to find a friend to play duets with.
+  + I’d like to record cool multi-track YouTube videos.
+  + I’d like someone to pay me to play the =your instrument=.
+- *Re-frame resistance:* ... as motivation to get better. This is an idea I got from the book [[https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026][The War of Art]] (read this!!). If you get down on yourself or hit a plateau, compartmentalize that energy and re-appropriate it into your practice instead. Any type of resistance can be treated this way (this works great for exercise too).
+- *Play piano:* This one is super important. Piano has dual benefits:
+  1) It makes you a better musician because the music you learn is more complicated.
+  2) It is much easier to produce a single tone of quality (just press the key) on piano than it is on any wind or string instrument — that gives confidence and improves the connection between your brain and a good sound.
+- *Take lessons:* ...from someone who is very very good (recommend whoever plays with the closest full time orchestra). - even if it’s only once in a while. Having someone else examine your playing, particularly if you’ve hit a roadblock pays dividends. That person may also spot problems with your equipment or technique that you might not catch.
+- *Be thankful:* ...for whatever talent and present capability you have. Music is an extremely tough (tougher than tech) industry.
+- *Let your ego go:* Great music exists without the added complication of your relationship with it (what could be, what could have been, what I have failed at). Playing music is most joyful when you do it purely for the sake of making great sounds.

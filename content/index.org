@@ -121,8 +121,15 @@ Ever wonder what I'm reading? Here's where I intend to keep track in the near fu
 
 ** Writing
 
+*** Tech
+
 + [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity (Zapier Blog)]]
 + [[https://www.fastcompany.com/90780493/8-tips-tricks-and-tools-to-optimize-productivity-on-your-mac][Optimize Your Mac For Productivity (Reprinted by Fast Company)]]
+
+
+*** Music
+
++ [[file:tips-for-practicing-music-after-a-long-break.org][Tips For Practicing Music After a Long Break]]  
 + [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
 
 * Other
