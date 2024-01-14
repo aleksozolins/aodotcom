@@ -3,6 +3,7 @@
 #+options: toc:nil num:nil
 #+author: Aleks Ozolins
 
+Aleks Ozolins
 [[file:index.org][Back to ozolins.xyz]]
 -----
 
