@@ -117,20 +117,22 @@ Here is some software I use and love:
 
 ** Reading
 
-Ever wonder what I'm reading? Here's where I intend to keep track in the near future. This list will represents only a portion of my library. For transparency, I don't always finish every book I start, nor do I like all of the books I read! Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any books that you and I have both read.
+Ever wonder what I'm reading? Well, as of December 2023, I've started keeping track here. For transparency, I don't always finish every book I start, nor do I like all of the books I read! Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any books below.
+
+#+INCLUDE: "~/docs/denote/20240203T093952--library__book.org" :lines "6-"
 
 ** Writing
+
+*** Music
+
++ [[file:tips-for-practicing-music-after-a-long-break.org][Tips For Practicing Music After a Long Break]]  
++ [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]] (*Note*: I don't stand by this content as I have since come to understand this topic a bit differently. As such, this guide demands an update, but until then, some of the information may still be interesting.)
 
 *** Tech
 
 + [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity (Zapier Blog)]]
 + [[https://www.fastcompany.com/90780493/8-tips-tricks-and-tools-to-optimize-productivity-on-your-mac][Optimize Your Mac For Productivity (Reprinted by Fast Company)]]
 
-
-*** Music
-
-+ [[file:tips-for-practicing-music-after-a-long-break.org][Tips For Practicing Music After a Long Break]]  
-+ [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]]
 
 * Other
 
