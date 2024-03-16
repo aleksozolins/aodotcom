@@ -2,5 +2,6 @@
 #+date:       [2023-06-29 Thu 09:33]
 #+filetags:   :js:learning:
 #+setupfile:  ./org-html-themes/org/theme-readtheorg.setup
+#+property:   header-args :exports both
 
 #+INCLUDE: "~/docs/denote/20230629T093336--javascript-from-first-steps-to-professional-notes__js_learning.org" :lines "6-"
