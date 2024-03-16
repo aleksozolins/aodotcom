@@ -133,7 +133,16 @@ Ever wonder what I'm reading? Well, as of December 2023, I've started keeping tr
 + [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity (Zapier Blog)]]
 + [[https://www.fastcompany.com/90780493/8-tips-tricks-and-tools-to-optimize-productivity-on-your-mac][Optimize Your Mac For Productivity (Reprinted by Fast Company)]]
 
+** Learning
 
+Here you'll find links to notes on various courses I've taken. I maintain these notes online to act as personal wikis, but you may find the information here useful as well. Notes here are taken in [[https://orgmode.org/][org-mode]] format and published via [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][ox-publish]] using the [[https://github.com/mrlee23/readtheorg][read-the-org]] theme.
+
+*** Software Engineering
+
++ [[file:the-complete-javascript-2024-notes.org][NOTES -- The Complete JavaScript Course 2024]]
++ [[file:javascript-from-first-steps-to-professional-notes.org][NOTES -- JavaScript: From First Steps To Professional]]
++ [[file:real-python-learning-notes.org][NOTES -- Real Python]]
+  
 * Other
 
 ** Updates

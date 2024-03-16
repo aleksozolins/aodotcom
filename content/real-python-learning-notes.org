@@ -1,0 +1,6 @@
+#+title:      Real Python Learning Notes
+#+date:       [2024-02-03 Sat 09:55]
+#+filetags:   :learning:python:
+#+setupfile:  ./org-html-themes/org/theme-readtheorg.setup
+
+#+INCLUDE: "~/docs/denote/20240203T095509--real-python-learning-notes__learning_python.org" :lines "6-"

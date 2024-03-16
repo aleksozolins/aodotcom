@@ -1,0 +1,6 @@
+#+title:      The Complete JavaScript Course 2024 Notes
+#+date:       [2024-03-14 Thu 07:11]
+#+filetags:   :js:learning:zapier:
+#+setupfile:  ./org-html-themes/org/theme-readtheorg.setup
+
+#+INCLUDE: "~/docs/denote/20240314T071106--the-complete-javascript-course-2024-notes__js_learning_zapier.org" :lines "6-"
