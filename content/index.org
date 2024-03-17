@@ -105,14 +105,6 @@ Mics/interfaces/software/etc.
 
 I'll be including some links to software projects here in the near future.
 
-** Software
-
-Here is some software I use and love:
-
-- [[https://archlinux.org][Arch Linux]]
-- [[https://www.gnu.org/software/emacs/][GNU Emacs]]
-- [[https://www.zapier.com][Zapier]] (my current full-time employer)
-
 * Library
 
 ** Reading
@@ -139,10 +131,14 @@ Here you'll find links to notes on various courses I've taken. I maintain these 
 
 *** Software Engineering
 
-+ [[file:the-complete-javascript-2024-notes.org][NOTES -- The Complete JavaScript Course 2024]]
-+ [[file:javascript-from-first-steps-to-professional-notes.org][NOTES -- JavaScript: From First Steps To Professional]]
-+ [[file:real-python-learning-notes.org][NOTES -- Real Python]]
-  
+|-------------------------------------------------------+----------------+-------------|
+| Course                                                | Date Completed | In Progress |
+|-------------------------------------------------------+----------------+-------------|
+| [[file:the-complete-javascript-2024-notes.org][NOTES -- The Complete JavaScript Course 2024]]          |                | X           |
+| [[file:javascript-from-first-steps-to-professional-notes.org][NOTES == JavaScript: From First Steps To Professional]] |                |             |
+| [[file:real-python-learning-notes.org][NOTES -- Real Python]]                                  |                |             |
+|-------------------------------------------------------+----------------+-------------|
+
 * Other
 
 ** Updates
@@ -177,8 +173,17 @@ CLOSED: [2024-01-09 Tue 21:06]
 
 *** Family/Friends
 
-- [[https://www.erinpaul.com][Erin Paul Ozolins (my partner!)]]
+- [[https://www.erinpaul.com][Erin Paul Ozolins]] (My other half)
 
-*** Commercial
+*** Horn
 
 - [[https://gebr-alexander.de/en][Alexander Horns]]
+- [[https://www.phclondon.net/][PHC Mouthpieces]]
+
+*** Software
+
+- [[https://archlinux.org][Arch Linux]] (BTW)
+- [[https://www.gnu.org/software/emacs/][GNU Emacs]] (It really does everything...)
+- [[https://orgmode.org/][Org mode for GNU Emacs]] (How I organize my life)
+- [[https://ledger-cli.org/][Ledger CLI]] (How I organize my finances)
+- [[https://www.zapier.com][Zapier]] (I am employed here)
