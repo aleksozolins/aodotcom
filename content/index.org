@@ -135,7 +135,7 @@ Here you'll find links to notes on various courses I've taken. I maintain these 
 | Course                                                | Date Completed | In Progress |
 |-------------------------------------------------------+----------------+-------------|
 | [[file:the-complete-javascript-2024-notes.org][NOTES -- The Complete JavaScript Course 2024]]          |                | X           |
-| [[file:javascript-from-first-steps-to-professional-notes.org][NOTES == JavaScript: From First Steps To Professional]] |                |             |
+| [[file:javascript-from-first-steps-to-professional-notes.org][NOTES -- JavaScript: From First Steps To Professional]] |                |             |
 | [[file:real-python-learning-notes.org][NOTES -- Real Python]]                                  |                |             |
 |-------------------------------------------------------+----------------+-------------|
 
