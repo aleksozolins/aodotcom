@@ -84,10 +84,9 @@ Here is a list of horns I own and work with. In the future, I look forward to pr
 
 + Engelbert Schmid Triple Horn in F/B/Eb (Mindelzell)
 + Alexander 103 (2018)
-+ Alexander 103 (1950-60s -- I'm yet to precisely date this one)
 + Alexander single F horn (date unknown -- likely pre WW2)
-+ Seraphinoff Halari hand horn
 + H Series Conn 8D (1968 -- mint condition and unmodified)
++ 1950s Nickel Kruspe (as new - unmodified except main tuning slide lengthened)
 
 *** Mouthpieces
 
@@ -109,7 +108,7 @@ I'll be including some links to software projects here in the near future.
 
 ** Reading
 
-Ever wonder what I'm reading? Well, as of December 2023, I've started keeping track here. For transparency, I don't always finish every book I start, nor do I like all of the books I read! Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any books below.
+Ever wonder what I'm reading? Well, as of December 2023, I've started keeping track. When I start a new book, I'll list it below. For transparency, I don't always finish every book I start, nor do I like all of the books I read. I also don't endorse any of the content within them. Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any books here.
 
 #+INCLUDE: "~/docs/denote/20240203T093952--library__book.org" :lines "6-"
 
