@@ -25,90 +25,6 @@ Copyright © 2021-2024 [[mailto:aleks@ozolins.xyz][Aleks Ozolins]]
 
 This site is self-hosted on an old PC running Arch Linux [[https://knowyourmeme.com/memes/btw-i-use-arch][BTW]]. The source code for ozolins.xyz can be found on [[https://github.com/aleksozolins/aodotcom][GitHub]]. This site was built using [[https://orgmode.org/][Org Mode]]. The theme used here is [[https://github.com/alphapapa/org-html-theme-darksun][darksun]] by alphapapa.
 
-* Eng-Portfolio
-
-I'm a developing back-end engineer. Below, you can find links to the software projects I've built and maintain.
-
-** mouthpiecer-cli
-
-|-------------+-----------------------------------------------------|
-| Title       | mouthpiecer-cli                                     |
-| Description | TUI interface for French Horn Mouthpiece Management |
-| Languages   | Python                                              |
-| GitHub      | [[https://github.com/aleksozolins/mouthpiecer-cli][Link]]                                                |
-|-------------+-----------------------------------------------------|
-
-*Detail:* Written in Python, =mouthpiecer-cli= (which technically /should/ be called mouthpiecer-*tui*) is a terminal user interface for keeping track of your French horn mouthpiece collection. It leverages the power of [[https://knack.com][Knack]], a platform for building custom online apps, as a database back end. Interacting with Knack via its REST API, =mouthpiecer-cli= uses [[https://pandas.pydata.org/][pandas]] to display database information in the terminal, providing a simple interface for users to manage their mouthpiece collection.
-
-#+begin_export html
-<img src="./images/mouthpiecer-cli.png" alt="mouthpiecer-cli screenshot" width="500px">
-#+end_export
-
-** reprov
-
-|-------------+------------------------------------------|
-| Title       | reprov                                   |
-| Description | Aleks' Reprovisioning Script for Desktop |
-| Languages   | Bash                                     |
-| GitHub      | [[https://github.com/aleksozolins/reprov][Link]]                                     |
-|-------------+------------------------------------------|
-
-*Note:* I'll be rewriting this in Python soon and expanding its functionality!
-  
-*Detail:* Written in Bash, =Aleks' Reprovisioning Script for Desktop= is designed for *personal use only*, and is aimed at automatically reprovisioning a new install of Arch Linux into a fully usable system with minimal intervention.
-
-The script serves several functions:
-
-- *Error Logging:* Logs errors for easy troubleshooting and debugging.
-- *Dotfiles Management:* Automatically clones and stows (using [[https://www.gnu.org/software/stow/][GNU Stow]]) both public and personal dotfiles.
-- *Package Installation:* Installs necessary packages from both the official Arch repositories and the AUR (using [[https://github.com/Morganamilo/paru][paru]]).
-- *Password Store Setup:* Sets up the password store using [[https://www.passwordstore.org][pass]] and configures my [[https://gnupg.org/][GPG]] key.
-- *Machine-Specific Configurations:* Applies machine-specific configurations to tailor the system to the specific hardware and personal preferences.
-- *Printing Setup:* Sets up printing capabilities using [[https://www.cups.org/][CUPS]].
-- *Window Manager Configuration:* Sets up a minimal yet fully functional tiling window manager environment using my custom build of [[https://dwm.suckless.org/][DWM]].
-- *Email Synchronization:* Synchronizes email accounts using [[https://isync.sourceforge.io/mbsync.html][mbsync]] and [[https://www.djcbsoftware.nl/code/mu/][mu]].
-
-#+begin_export html
-<img src="./images/reprov.png" alt="mouthpiecer-cli screenshot" width="500px">
-#+end_export
-
-** aodotcom
-
-|-------------+------------------------------------------------|
-| Title       | aodotcom                                       |
-| Description | Aleks Ozolins' personal website at ozolins.xyz |
-| Languages   | Org,Elisp,Shell,HTML/CSS                       |
-| GitHub      | [[https://github.com/aleksozolins/aodotcom][Link]]                                           |
-|-------------+------------------------------------------------|
-
-*Detail:* The source for this website. The content itself is written in [[https://orgmode.org/][org-mode]]. An Elisp script leverages [[https://github.com/emacs-mirror/emacs/blob/master/lisp/org/ox-publish.el][ox-publish]] to publish the content to HTML using a CSS template. This is wrapped in a simple build/deployment/backup script written in plain shell.
-
-** dotfiles
-
-|-------------+----------------------------------------------|
-| Title       | dotfiles                                     |
-| Description | My personal configuration files              |
-| Languages   | Various                                      |
-| GitHub      | [[https://github.com/aleksozolins/dotfiles][Link]]                                         |
-| Other       | [[https://github.com/aleksozolins/dotfiles/blob/master/emacs/.config/emacs/emacs.org][Emacs Config]] (org, published using [[https://org-babel.readthedocs.io/en/latest/][org-babel]] |
-|-------------+----------------------------------------------|
-
-*Detail:* My personal configurations for a range of software with a focus on FOSS (Free and Open Source Sofware) for GNU/Linux.
-
-* Eng-Learning
-
-I maintain these notes online to act as personal wikis, but you may find the information here useful as well. Notes here are taken in [[https://orgmode.org/][org-mode]] format and published via [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][ox-publish]] using the [[https://github.com/mrlee23/readtheorg][read-the-org]] theme.
-
-|-------------------------------------------------------+-----------------------------------------------------|
-| Course                                                | Comment                                             |
-|-------------------------------------------------------+-----------------------------------------------------|
-| [[file:the-complete-javascript-2024-notes.org][NOTES -- The Complete JavaScript Course 2024]]          |                                                     |
-| [[file:javascript-from-first-steps-to-professional-notes.org][NOTES -- JavaScript: From First Steps To Professional]] |                                                     |
-| [[file:real-python-learning-notes.org][NOTES -- Real Python]]                                  |                                                     |
-| [[https://boot.dev]]                                      | I'm currently focusing my learning on this platform |
-|-------------------------------------------------------+-----------------------------------------------------|
-
-
 * Music
 
 I play the French horn professionally and am a member of [[https://local802afm.org/][The American Federation of Musicians - Local 802]]
@@ -184,6 +100,20 @@ Mics/interfaces/software/etc.
 
 * Library
 
+** Learning (Software Engineering)
+
+I maintain these notes online to act as personal wikis, but you may find the information here useful as well. Notes here are taken in [[https://orgmode.org/][org-mode]] format and published via [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][ox-publish]] using the [[https://github.com/mrlee23/readtheorg][read-the-org]] theme.
+
+|-------------------------------------------------------+-----------------------------------------------------|
+| Course                                                | Comment                                             |
+|-------------------------------------------------------+-----------------------------------------------------|
+| [[file:the-complete-javascript-2024-notes.org][NOTES -- The Complete JavaScript Course 2024]]          |                                                     |
+| [[file:javascript-from-first-steps-to-professional-notes.org][NOTES -- JavaScript: From First Steps To Professional]] |                                                     |
+| [[file:real-python-learning-notes.org][NOTES -- Real Python]]                                  |                                                     |
+| [[https://boot.dev]]                                      | I'm currently focusing my learning on this platform |
+|-------------------------------------------------------+-----------------------------------------------------|
+
+
 ** Reading
 
 Ever wonder what I'm reading? Well, as of December 2023, I've started keeping track. When I start a new book, I'll list it below. For transparency, I don't always finish every book I start, nor do I like all of the books I read. I also don't endorse any of the content within them. Don't hesitate to send me an [[mailto:aleks@ozolins.xyz][email]] if you'd like to discuss any books here.
@@ -195,42 +125,83 @@ Ever wonder what I'm reading? Well, as of December 2023, I've started keeping tr
 *** Music
 
 + [[file:tips-for-practicing-music-after-a-long-break.org][Tips For Practicing Music After a Long Break]]  
-+ [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]] (*Note*: I don't stand by this content as I have since come to understand this topic a bit differently. As such, this guide demands an update, but until then, some of the information may still be interesting.)
++ [[./venturi_article.html][The Horn Mouthpiece and Receiver Relationship: A Guide]] (*Note*: I no longer stand by this content as I have since come to understand this topic a bit differently. As such, this guide demands an update, but until then, some of the information may still be interesting.)
 
 *** Tech
 
-+ [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity (Zapier Blog)]]
-+ [[https://www.fastcompany.com/90780493/8-tips-tricks-and-tools-to-optimize-productivity-on-your-mac][Optimize Your Mac For Productivity (Reprinted by Fast Company)]]
++ [[https://zapier.com/blog/mac-productivity-tips/][Optimize Your Mac For Productivity (Zapier Blog)]] - Also reprinted by Fast Company [[https://www.fastcompany.com/90780493/8-tips-tricks-and-tools-to-optimize-productivity-on-your-mac][here]]
+
+* Engineering Portfolio
+
+I'm a developing back-end engineer. Below, you can find links to the software projects I've built and maintain.
+
+** mouthpiecer-cli
+
+|-------------+-----------------------------------------------------|
+| Title       | mouthpiecer-cli                                     |
+| Description | TUI interface for French Horn Mouthpiece Management |
+| Languages   | Python                                              |
+| GitHub      | [[https://github.com/aleksozolins/mouthpiecer-cli][Link]]                                                |
+|-------------+-----------------------------------------------------|
+
+*Detail:* Written in Python, =mouthpiecer-cli= (which technically /should/ be called mouthpiecer-*tui*) is a terminal user interface for keeping track of your French horn mouthpiece collection. It leverages the power of [[https://knack.com][Knack]], a platform for building custom online apps, as a database back end. Interacting with Knack via its REST API, =mouthpiecer-cli= uses [[https://pandas.pydata.org/][pandas]] to display database information in the terminal, providing a simple interface for users to manage their mouthpiece collection.
+
+#+begin_export html
+<img src="./images/mouthpiecer-cli.png" alt="mouthpiecer-cli screenshot" width="500px">
+#+end_export
+
+** reprov
+
+|-------------+------------------------------------------|
+| Title       | reprov                                   |
+| Description | Aleks' Reprovisioning Script for Desktop |
+| Languages   | Bash                                     |
+| GitHub      | [[https://github.com/aleksozolins/reprov][Link]]                                     |
+|-------------+------------------------------------------|
+
+*Note:* I'll be rewriting this in Python soon and expanding its functionality!
+  
+*Detail:* Written in Bash, =Aleks' Reprovisioning Script for Desktop= is designed for *personal use only*, and is aimed at automatically reprovisioning a new install of Arch Linux into a fully usable system with minimal intervention.
+
+The script serves several functions:
+
+- *Error Logging:* Logs errors for easy troubleshooting and debugging.
+- *Dotfiles Management:* Automatically clones and stows (using [[https://www.gnu.org/software/stow/][GNU Stow]]) both public and personal dotfiles.
+- *Package Installation:* Installs necessary packages from both the official Arch repositories and the AUR (using [[https://github.com/Morganamilo/paru][paru]]).
+- *Password Store Setup:* Sets up the password store using [[https://www.passwordstore.org][pass]] and configures my [[https://gnupg.org/][GPG]] key.
+- *Machine-Specific Configurations:* Applies machine-specific configurations to tailor the system to the specific hardware and personal preferences.
+- *Printing Setup:* Sets up printing capabilities using [[https://www.cups.org/][CUPS]].
+- *Window Manager Configuration:* Sets up a minimal yet fully functional tiling window manager environment using my custom build of [[https://dwm.suckless.org/][DWM]].
+- *Email Synchronization:* Synchronizes email accounts using [[https://isync.sourceforge.io/mbsync.html][mbsync]] and [[https://www.djcbsoftware.nl/code/mu/][mu]].
+
+#+begin_export html
+<img src="./images/reprov.png" alt="mouthpiecer-cli screenshot" width="500px">
+#+end_export
+
+** aodotcom
+
+|-------------+------------------------------------------------|
+| Title       | aodotcom                                       |
+| Description | Aleks Ozolins' personal website at ozolins.xyz |
+| Languages   | Org,Elisp,Shell,HTML/CSS                       |
+| GitHub      | [[https://github.com/aleksozolins/aodotcom][Link]]                                           |
+|-------------+------------------------------------------------|
+
+*Detail:* The source for this website. The content itself is written in [[https://orgmode.org/][org-mode]]. An Elisp script leverages [[https://github.com/emacs-mirror/emacs/blob/master/lisp/org/ox-publish.el][ox-publish]] to publish the content to HTML using a CSS template. This is wrapped in a simple build/deployment/backup script written in plain shell.
+
+** dotfiles
+
+|-------------+----------------------------------------------|
+| Title       | dotfiles                                     |
+| Description | My personal configuration files              |
+| Languages   | Various                                      |
+| GitHub      | [[https://github.com/aleksozolins/dotfiles][Link]]                                         |
+| Other       | [[https://github.com/aleksozolins/dotfiles/blob/master/emacs/.config/emacs/emacs.org][Emacs Config]] (org, published using [[https://org-babel.readthedocs.io/en/latest/][org-babel]] |
+|-------------+----------------------------------------------|
+
+*Detail:* My personal configurations for a range of software with a focus on FOSS (Free and Open Source Sofware) for GNU/Linux.
 
 * Other
-
-** Updates
-
-Here are the list of upcoming updates to this site:
-
-*** TODO Add revert script to undo most recent deployment
-
-*** TODO Solarized theme for extra pages
-
-*** TODO Include some links to my software projects
-
-*** TODO Change to a more attractive site theme
-
-*** TODO Upload some media
-
-*** TODO Disable "In this section" on mobile
-
-*** DONE Change build script to eliminate htdocs dir
-CLOSED: [2024-01-09 Tue 21:06]
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-01-09 Tue 21:06]
-:END:
-
-*** DONE Add publish script to copy to server automatically
-CLOSED: [2024-01-09 Tue 21:06]
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-01-09 Tue 21:06]
-:END:
 
 ** Links
 
@@ -250,3 +221,33 @@ CLOSED: [2024-01-09 Tue 21:06]
 - [[https://orgmode.org/][Org mode for GNU Emacs]] (How I organize my life)
 - [[https://ledger-cli.org/][Ledger CLI]] (How I organize my finances)
 - [[https://www.zapier.com][Zapier]] (I am employed here)
+- [[https://boot.dev][boot.dev]] (Back-end focused learning platform for software developers)
+
+** Updates
+
+Here are the list of upcoming updates to this site:
+
+*** TODO Add revert script to undo most recent deployment
+
+*** TODO Upload some media
+
+*** TODO Switch to a more mobile-friendly theme
+
+*** DONE Include some links to my software projects
+CLOSED: [2024-08-25 Sun 14:54]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-08-25 Sun 14:54]
+:END:
+
+*** DONE Change build script to eliminate htdocs dir
+CLOSED: [2024-01-09 Tue 21:06]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-01-09 Tue 21:06]
+:END:
+
+*** DONE Add publish script to copy to server automatically
+CLOSED: [2024-01-09 Tue 21:06]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-01-09 Tue 21:06]
+:END:
+
